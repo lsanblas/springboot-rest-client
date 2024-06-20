@@ -13,6 +13,8 @@ RestTemplate - synchronous client with template method API.
 
 HTTP Interface - annotated interface with generated, dynamic proxy implementation.
 
+Spring Cloud OpenFeign - declarative REST client.
+
 ## DEMO
 
 To test each type of client the project publish a REST Controller in the URL http://localhost:8080/api/v1/users/. Please, use the Swagger Endpoint http://localhost:8080/swagger-ui/index.html for easy testing.
